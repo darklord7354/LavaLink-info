@@ -1,0 +1,51 @@
+.mainText {
+    color: white;
+    text-align: center;
+    position: absolute; bottom: 250px; left: 250px;
+    font-size: 45px;
+    font-family: 'Coiny', cursive;
+}
+
+/*buttons => */
+
+#getHelpBTN {
+    position: absolute; top: 25px; right: 25px
+}
+
+#LavaLinkInfo {
+    position: absolute; top: 25px; right: 125px
+}
+
+#whatis {
+    position: absolute; top: 25px; right: 250px
+}
+
+/* footer => */
+
+.madeBy {
+    color: white;
+    font-family: Arial;
+    font-size: 10px;
+    text-align: center;
+    position: absolute; top: 640px; left: 500px
+}
+
+.footerLinks {
+    font-family: Arial;
+    font-size: 10px;
+    text-align: center;
+    position: absolute; bottom: 15px; left: 600px
+}
+
+/* full html => */
+
+text {
+    color: white;
+}
+
+body {
+    background-image: url("/htmlweb/PICS/background.jpg");
+    background-size: 1080px;
+}
+
+
